@@ -130,6 +130,8 @@ public class TimetableServiceImpl implements TimetableService {
 
 <img src="https://github.com/vellarLa/ESA_LAB_2/assets/83453185/5ae3a9ef-f8d1-4d3e-803d-64fd5c580aea" width="600">
 
+
+
 <img src="https://github.com/vellarLa/ESA_LAB_2/assets/83453185/035d2984-a4f5-4b3e-998f-bdd17764cabd" width="400">
 
 <img src="https://github.com/vellarLa/ESA_LAB_2/assets/83453185/4b2e9d1b-88dc-423f-8876-d2ac9e4575d2" width="400">
@@ -141,9 +143,12 @@ public class TimetableServiceImpl implements TimetableService {
 
 <img src="https://github.com/vellarLa/ESA_LAB_2/assets/83453185/70d2d8bc-5ce6-443a-a059-0bf4caa2bfa5" width="600">
 
+
 <img src="https://github.com/vellarLa/ESA_LAB_2/assets/83453185/12b980e1-0cfd-4f42-80d5-0e3e7636ca87" width="600">
 
+
 <img src="https://github.com/vellarLa/ESA_LAB_2/assets/83453185/2b91b010-eb7b-4ffe-94c0-8e031aa6d29c" width="400">
+
 
 Изменение билета. При нажатии кнопки "update" открывается форма для редактирования параметров билета. В этой форме
 весь каскад обновлений также сохраняется.
