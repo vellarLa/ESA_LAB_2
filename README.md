@@ -143,11 +143,9 @@ public class TimetableServiceImpl implements TimetableService {
 
 <img src="https://github.com/vellarLa/ESA_LAB_2/assets/83453185/70d2d8bc-5ce6-443a-a059-0bf4caa2bfa5" width="600">
 
+<img src="https://github.com/vellarLa/ESA_LAB_2/assets/83453185/91800430-b17e-4649-916a-6ee0b05f88a2" width="600">
 
-<img src="https://github.com/vellarLa/ESA_LAB_2/assets/83453185/12b980e1-0cfd-4f42-80d5-0e3e7636ca87" width="600">
-
-
-<img src="https://github.com/vellarLa/ESA_LAB_2/assets/83453185/2b91b010-eb7b-4ffe-94c0-8e031aa6d29c" width="400">
+<img src="https://github.com/vellarLa/ESA_LAB_2/assets/83453185/2e59b8e6-2ec6-45ee-a7e9-1c6ea71c73b2" width="600">
 
 
 Изменение билета. При нажатии кнопки "update" открывается форма для редактирования параметров билета. В этой форме
